@@ -1,33 +1,26 @@
 # Hackathon ONE G9 — Página Web
-
-Página web para apresentação dos projetos do Hackathon do programa **Oracle Next Education (ONE)**, desenvolvida com HTML, CSS e JavaScript puros — pronta para deploy no **GitHub Pages**.
-
+Página web para la presentación de los proyectos del Hackathon del programa **Oracle Next Education (ONE)**, desarrollada con HTML, CSS y JavaScript puros — lista para deploy en **GitHub Pages**.
 ---
-
-## 📁 Estrutura do Projeto
-
+## 📁 Estructura del Proyecto
 ```
 docs/
 ├── index.html          # Página principal
-├── style.css           # Estilos (design dark premium)
-├── script.js           # Animações e interatividade
-├── .nojekyll           # Necessário para GitHub Pages
-├── assets/             # Logos das empresas parceiras
+├── style.css           # Estilos (diseño dark premium)
+├── script.js           # Animaciones e interactividad
+├── .nojekyll           # Necesario para GitHub Pages
+├── assets/             # Logos de las empresas asociadas
 │   ├── alura-logo.png
 │   ├── oracle-logo.png
 │   ├── one-logo.png
 │   └── nocountry-logo.png
-└── pdfs/               # Documentação PDF de cada projeto
+└── pdfs/               # Documentación PDF de cada proyecto
     ├── projeto-1-contentai.pdf
     ├── projeto-2-financeai.pdf
     └── projeto-3-energiai.pdf
-
 ---
-
-## 🛠️ Tecnologias
-
-- HTML5 semântico
-- CSS3 com variáveis customizadas (design dark premium)
-- JavaScript vanilla (sem dependências)
-- Fontes: Inter + Space Grotesk (Google Fonts)
-- Pronto para GitHub Pages (sem build step necessário)
+## 🛠️ Tecnologías
+- HTML5 semántico
+- CSS3 con variables personalizadas (diseño dark premium)
+- JavaScript vanilla (sin dependencias)
+- Fuentes: Inter + Space Grotesk (Google Fonts)
+- Listo para GitHub Pages (sin build step necesario)
