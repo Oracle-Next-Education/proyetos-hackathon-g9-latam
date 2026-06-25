@@ -17,6 +17,7 @@ docs/
     ├── projeto-1-contentai.pdf
     ├── projeto-2-financeai.pdf
     └── projeto-3-energiai.pdf
+```
 ---
 ## 🛠️ Tecnologías
 - HTML5 semántico
